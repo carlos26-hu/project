@@ -1,0 +1,56 @@
+productcode, diameter, length, material, coated, description, critic, number_edge, geometry, minquantity, quantity
+ZZMEHSS13;1.0;3.0;HSS;false;D1.0 átmérőjű,3.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS26;2.0;6.0;HSS;false;D2.0 átmérőjű,6.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS26;3.0;9.0;HSS;false;D3.0 átmérőjű,9.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS412;4.0;12.0;HSS;false;D4.0 átmérőjű,12.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS515;5.0;15.0;HSS;false;D5.0 átmérőjű,15.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS618;6.0;18.0;HSS;false;D6.0 átmérőjű,18.0 hosszú HSS maró;true;4;End;3;2
+ZZMEHSS824;8.0;24.0;HSS;false;D8.0 átmérőjű,24.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS1030;10.0;30.0;HSS;false;D10.0 átmérőjű,30.0 hosszú HSS maró;true;4;End;3;5
+ZZMEHSS1236;12.0;36.0;HSS;false;D12.0 átmérőjű,36.0 hosszú HSS maró;true;4;End;3;2
+ZZMEHSS1442;14.0;42.0;HSS;false;D14.0 átmérőjű,42.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS1648;16.0;48.0;HSS;false;D16.0 átmérőjű,48.0 hosszú HSS maró;false;4;End;3;2
+ZZMEHSS1854;18.0;54.0;HSS;false;D18.0 átmérőjű,54.0 hosszú HSS maró;true;4;End;3;2
+ZZMEHSS2060;20.0;60.0;HSS;false;D20.0 átmérőjű,60.0 hosszú HSS maró;true;4;End;3;5
+ZZMECo813;1.0;3.0;HSSCo8;false;D1.0 átmérőjű,3.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo826;2.0;6.0;HSSCo8;false;D2.0 átmérőjű,6.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo839;3.0;9.0;HSSCo8;false;D3.0 átmérőjű,9.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo8412;4.0;12.0;HSSCo8;false;D4.0 átmérőjű,12.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo8515;5.0;15.0;HSSCo8;false;D5.0 átmérőjű,15.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo8618;6.0;18.0;HSSCo8;false;D6.0 átmérőjű,18.0 HSS-Co8 maró;true;4;End;3;2
+ZZMECo8824;8.0;24.0;HSSCo8;false;D8.0 átmérőjű,24.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo81030;10.0;30.0;HSSCo8;false;D10.0 átmérőjű,30.0 hosszú HSS-Co8 maró;true;4;End;3;5
+ZZMECo81236;12.0;36.0;HSSCo8;false;D12.0 átmérőjű,36.0 HSS-Co8 maró;true;4;End;3;2
+ZZMECo81442;14.0;42.0;HSSCo8;false;D14.0 átmérőjű,42.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo81648;16.0;48.0;HSSCo8;false;D16.0 átmérőjű,48.0 hosszú HSS-Co8 maró;false;4;End;3;2
+ZZMECo81854;18.0;54.0;HSSCo8;false;D18.0 átmérőjű,54.0 HSS-Co8 maró;true;4;End;3;2
+ZZMECo82060;20.0;60.0;HSSCo8;false;D20.0 átmérőjű,60.0 hosszú HSS-Co8 maró;true;4;End;3;5
+ZZMBCARB36;3.0;6.0;Carbide;false;D3.0 átmérőjű,6.0 hosszú keményfém gömborrú maró;false;4;Ball;3;2
+ZZMBCARB48;4.0;8.0;Carbide;false;D4.0 átmérőjű,8.0 hosszú keményfém gömborrú maró;false;4;Ball;3;2
+ZZMBCARB510;5.0;10.0;Carbide;false;D5.0 átmérőjű,10.0 hosszú keményfém gömborrú maró;false;4;Ball;3;2
+ZZMBCARB612;6.0;12.0;Carbide;false;D6.0 átmérőjű,12.0hosszú keményfém gömborrú maró;true;4;Ball;3;2
+ZZMBCARB824;8.0;16.0;Carbide;false;D8.0 átmérőjű,16.0 hosszú keményfém gömborrú maró;false;4;Ball;3;2
+ZZMBCARB1030;10.0;20.0;Carbide;false;D10.0 átmérőjű,20.0 hosszú keményfém gömborrú maró;true;4;Ball;3;5
+ZZMBCARB1236;12.0;25.0;Carbide;false;D12.0 átmérőjű,25.0hosszú keményfém gömborrú maró;true;4;Ball;3;2
+ZZMECARB26;2.0;6.0;Carbide;false;D2.0 átmérőjű,6.0 hosszú keményfém kétélű maró;false;2;End;3;2
+ZZMECARB39;3.0;9.0;Carbide;false;D3.0 átmérőjű,9.0 hosszú keményfém kétélű maró;false;2;End;3;2
+ZZMECARB412;4.0;12.0;Carbide;false;D4.0 átmérőjű,12.0 hosszú keményfém kétélű maró;false;2;End;3;2
+ZZMECARB515;5.0;15.0;Carbide;false;D5.0 átmérőjű,15.0 hosszú keményfém kétélű maró;false;2;End;3;2
+ZZMECARB618;6.0;18.0;Carbide;false;D6.0 átmérőjű,18.0hosszú keményfém kétélű maró;true;2;End;3;2
+ZZMECARB824;8.0;24.0;Carbide;false;D8.0 átmérőjű,24.0 hosszú keményfém kétélű maró;false;2;End;3;2
+ZZMECARB1030;10.0;30.0;Carbide;false;D10.0 átmérőjű,30.0 hosszú keményfém kétélű maró;true;2;End;3;5
+ZZMECARB1236;12.0;36.0;Carbide;false;D12.0 átmérőjű,36.0hosszú keményfém kétélű maró;true;2;End;3;2
+ZZMECARB1442;14.0;42.0;Carbide;false;D14.0 átmérőjű,42.0 hosszú keményfém kétélű maró;false;2;End;3;2
+ZZMECARB1648;16.0;48.0;Carbide;false;D16.0 átmérőjű,48.0 hosszú keményfém kétélű maró;false;2;End;3;2
+ZZMECARB1854;18.0;54.0;Carbide;false;D18.0 átmérőjű,54.0hosszú keményfém kétélű maró;true;2;End;3;2
+ZZMECARB2060;20.0;60.0;Carbide;false;D20.0 átmérőjű,60.0 hosszú keményfém kétélű maró;true;2;End;3;5
+ZZMECARB26;2.0;6.0;Carbide;true;D2.0 átmérőjű,6.0 hosszú keményfém bevonatos maró;false;4;End;3;2
+ZZMECARB412;4.0;12.0;Carbide;true;D4.0 átmérőjű,12.0 hosszú keményfém bevonatos maró;false;4;End;3;2
+ZZMECARB618;6.0;18.0;Carbide;true;D6.0 átmérőjű,18.0hosszú keményfém bevonatos maró;true;4;End;3;2
+ZZMECARB824;8.0;24.0;Carbide;true;D8.0 átmérőjű,24.0 hosszú keményfém bevonatos maró;false;4;End;3;2
+ZZMECARB1030;10.0;30.0;Carbide;true;D10.0 átmérőjű,30.0 hosszú keményfém bevonatos maró;true;4;End;3;5
+ZZMECARB1236;12.0;36.0;Carbide;true;D12.0 átmérőjű,36.0hosszú keményfém bevonatos maró;true;4;End;3;2
+ZZMECARB1442;14.0;42.0;Carbide;true;D14.0 átmérőjű,42.0 hosszú keményfém bevonatos maró;false;4;End;3;2
+ZZMECARB1648;16.0;48.0;Carbide;true;D16.0 átmérőjű,48.0 hosszú keményfém bevonatos maró;false;4;End;3;2
+ZZMECARB1854;18.0;54.0;Carbide;true;D18.0 átmérőjű,54.0hosszú keményfém bevonatos maró;true;4;End;3;2
+ZZMECARB2060;20.0;60.0;Carbide;true;D20.0 átmérőjű,60.0 hosszú keményfém bevonatos maró;true;4;End;3;5
